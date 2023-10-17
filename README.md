@@ -3,6 +3,7 @@
 
 🧊 Hello, I am Emre, a student at Kastamonu University Taşköprü Vocational School, Department of Computer Programming.
 
+
 🧊 I love programming and designing
 
 
@@ -15,7 +16,7 @@
 🧊 I can edit photos, not just software
 
 
-💎that's all for now :)
+🧊 that's all for now :)
 
 
-💎I will update the bio section as I upload new projects, see you soon.
+🧊 I will update the bio section as I upload new projects, see you soon.
