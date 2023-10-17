@@ -1,5 +1,5 @@
-                                                                     ### -Welcome to my profile-
-💎Hello, I am Emre, a student at Kastamonu University Taşköprü Vocational School, Department of Computer Programming.
+### -Welcome to my profile-
+-💎Hello, I am Emre, a student at Kastamonu University Taşköprü Vocational School, Department of Computer Programming.
 
 💎I love programming and designing
 
