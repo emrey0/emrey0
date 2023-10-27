@@ -21,4 +21,3 @@
 
 🧊 I will update the bio section as I upload new projects, see you soon.
 
-![alt text](http://url/to/TR.jpg)
