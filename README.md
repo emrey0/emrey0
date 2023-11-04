@@ -28,7 +28,7 @@
 ----------------------------------------------------------------------
 
 <p align="center">
-      <p align="left"><img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emrey0&layout=compact&langs_count=8&theme=great-gatsby"/>
+      <p align="left"><img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emrey0&layout=compact&langs_count=8&theme=blue-green"/>
 </p>
 
 
